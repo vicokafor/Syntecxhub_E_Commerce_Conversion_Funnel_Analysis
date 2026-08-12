@@ -378,18 +378,18 @@ Summarizes the major findings from the analysis and translates them into actiona
 
 ### Funnel Overview
 
-![Funnel Overview](screenshots/page-1-funnel-overview.png)
+![Funnel Overview](page-1-funnel-overview.png)
 
 ### Drop-off Analysis
 
-![Drop-off Analysis](screenshots/page-2-drop-off-analysis.png)
+![Drop-off Analysis](page-2-drop-off-analysis.png)
 
 ### Revenue Analysis
 
-![Revenue Analysis](screenshots/page-3-revenue-analysis.png)
+![Revenue Analysis](page-3-revenue-analysis.png)
 
 ### Executive Summary & Recommendations
 
-![Executive Summary](screenshots/page-4-executive-summary.png)
+![Executive Summary](page-4-executive-summary.png)
 
 ---
