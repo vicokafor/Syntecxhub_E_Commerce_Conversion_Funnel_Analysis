@@ -309,3 +309,87 @@ Through hands-on projects like this one, I am learning not only how to build das
 
 - **LinkedIn:** https://www.linkedin.com/in/victoria-okafor-4720a02b8
 - **GitHub:** https://github.com/vicokafor
+
+
+---
+
+## 📊 Dataset
+
+The dataset used for this project contains e-commerce customer session data covering different stages of the customer journey, including:
+
+- Browse
+- Add to Cart
+- Checkout
+- Purchase
+
+It also includes information such as:
+
+- Session ID
+- Event
+- Channel
+- Device
+- Region
+- Product Category
+- Revenue
+- Date
+
+The dataset was used to analyze customer behavior, identify funnel drop-offs, measure conversion performance, and understand revenue patterns across different customer segments.
+
+---
+
+## 📈 Power BI Dashboard
+
+The dashboard was developed using **Microsoft Power BI** and consists of four pages:
+
+### 1. Funnel Overview
+Provides an overall view of the e-commerce funnel, including:
+
+- Total Sessions
+- Overall Conversion Rate
+- Overall Drop-off Rate
+- Total Revenue
+- Funnel progression across customer journey stages
+- Conversion and drop-off rates between funnel stages
+
+### 2. Drop-off Analysis
+Focuses on identifying where customers are dropping off across:
+
+- Channels
+- Devices
+- Product Categories
+- Regions
+
+### 3. Revenue Analysis
+Analyzes revenue performance across:
+
+- Channels
+- Product Categories
+- Devices
+- Regions
+
+It also includes key revenue KPIs such as total revenue, average revenue per purchase, number of purchases, and revenue per purchase.
+
+### 4. Executive Summary & Recommendations
+Summarizes the major findings from the analysis and translates them into actionable business recommendations.
+
+---
+
+## 🖼️ Dashboard Screenshots
+
+### Funnel Overview
+
+![Funnel Overview](screenshots/page-1-funnel-overview.png)
+
+### Drop-off Analysis
+
+![Drop-off Analysis](screenshots/page-2-drop-off-analysis.png)
+
+### Revenue Analysis
+
+![Revenue Analysis](screenshots/page-3-revenue-analysis.png)
+
+### Executive Summary & Recommendations
+
+![Executive Summary](screenshots/page-4-executive-summary.png)
+
+---
